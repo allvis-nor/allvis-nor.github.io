@@ -13,7 +13,7 @@ Per nå tilbys kun lesetilgang. Skrivetilgang vil komme senere.
 ## Dokumentasjon
 
 For detaljert informasjon om API-et henviser vi til [egen
-dokumentasjon](api ':ignore') om dette.
+dokumentasjon](https://doc.allvis.no/api/v0/) om dette.
 
 ## Tilgang
 
