@@ -1,6 +1,6 @@
 # Allvis NOR
 
-Allvis NOR er navnet på [Nasjonal sikkerhetsmyndighets](https://www.nsm.stat.no/)
+Allvis NOR er navnet på [Nasjonal sikkerhetsmyndighets](https://nsm.no/)
 automatiserte sårbarhetskartlegger. Dette er en tjeneste som tilbys
 til offentlige virksomheter og eiere av kritisk infrastruktur. Den
 er internt utviklet og driftes av NSM ved seksjon for
